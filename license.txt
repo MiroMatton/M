@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft Grass Block
+* source:	https://sketchfab.com/3d-models/minecraft-grass-block-6fd5c3e0bfcc417e932723c651617c0e
+* author:	S3R84N (https://sketchfab.com/S3R84N)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft Grass Block" (https://sketchfab.com/3d-models/minecraft-grass-block-6fd5c3e0bfcc417e932723c651617c0e) by S3R84N (https://sketchfab.com/S3R84N) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
